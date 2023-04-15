@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "https://serve.hualab.me/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "https://serve.hualab.me/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "https://serve.hualab.me/map"
+        },
+        {
+            "src": "/i",
+            "dest": "https://serve.hualab.me/i"
+        },
+        {
+            "src": "/report",
+            "dest": "https://serve.hualab.me/report"
+        }
+    ]
+}
