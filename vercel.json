@@ -2,23 +2,23 @@
     "routes": [
         {
             "src": "/json/stats.json",
-            "dest": "https://server.hualab.me/json/stats.json"
+            "dest": "https://server.huaclub.top/json/stats.json"
         },
         {
             "src": "/detail",
-            "dest": "https://server.hualab.me/detail"
+            "dest": "https://server.huaclub.top/detail"
         },
         {
             "src": "/map",
-            "dest": "https://server.hualab.me/map"
+            "dest": "https://server.huaclub.top/map"
         },
         {
             "src": "/i",
-            "dest": "https://server.hualab.me/i"
+            "dest": "https://server.huaclub.top/i"
         },
         {
             "src": "/report",
-            "dest": "https://server.hualab.me/report"
+            "dest": "https://server.huaclub.top/report"
         }
     ]
 }
